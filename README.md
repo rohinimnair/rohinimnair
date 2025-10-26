@@ -12,16 +12,6 @@
 ---
 
 ### 🧠 Languages & Tools  
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)  
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash)  
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql)  
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)  
-![AWS Educate](https://img.shields.io/badge/-AWS%20Educate-FF9900?style=flat&logo=amazonaws)  
-![PartyRock](https://img.shields.io/badge/-PartyRock-232F3E?style=flat&logo=awsamplify)  
-![Draw.io](https://img.shields.io/badge/-Draw.io-F08705?style=flat&logo=diagramsdotnet)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)  ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash)  ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql)  ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)  ![AWS Educate](https://img.shields.io/badge/-AWS%20Educate-FF9900?style=flat&logo=amazonaws)  ![PartyRock](https://img.shields.io/badge/-PartyRock-232F3E?style=flat&logo=awsamplify)  ![Draw.io](https://img.shields.io/badge/-Draw.io-F08705?style=flat&logo=diagramsdotnet) ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco)   ![IET](https://img.shields.io/badge/-IET-660099?style=flat&logo=iet&logoColor=white)
 
 ---
