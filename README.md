@@ -25,11 +25,3 @@
 ![Draw.io](https://img.shields.io/badge/-Draw.io-F08705?style=flat&logo=diagramsdotnet)
 
 ---
-
-### 🚀 Featured Projects  
-- [Car Sales Management System](https://github.com/rohininmair/Car_Sales_Management_System) — Modular, menu-driven system built in C with data validation and file handling.  
-- [MindfulMate](https://github.com/rohininmair/MindfulMate) — An AI-powered wellness companion built on AWS PartyRock.  
-- [Superstore Sales Analysis](https://github.com/rohininmair/superstore_sales_analysis) — Beginner-level data analysis using Excel and charts.  
-- [File Backup Automation](https://github.com/rohininmair/file-backup-automation) — Bash & MS-DOS scripts for automated file backup with logging and retention.
-
----
